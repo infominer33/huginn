@@ -75,11 +75,12 @@ Note: By default, email messages are intercepted in the `development` Rails envi
 them at [http://localhost:3000/letter_opener](http://localhost:3000/letter_opener). If you'd like to send real email via SMTP when playing
 with Huginn locally, set `SEND_EMAIL_IN_DEVELOPMENT` to `true` in your `.env` file.
 
-If you need more detailed instructions, see the [Novice setup guide][novice-setup-guide].
+If you need more detailed instructions, see the [Novice setup guide][novice-setup-guide] and [Documentation](doc).
 
 [localhost]: http://localhost:3000/
 [wiki]: https://github.com/huginn/huginn/wiki
 [novice-setup-guide]: https://github.com/huginn/huginn/wiki/Novice-setup-guide
+[doc]: https://github.com/huginn/huginn/blob/master/doc
 
 ### Develop
 
